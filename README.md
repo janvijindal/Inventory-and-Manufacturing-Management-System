@@ -1,4 +1,5 @@
 Inventory and Manufacturing Management System
+
 Overview
 This project is a simplified version of an inventory and manufacturing unit management system focusing on an order system. It is built using React and Vite, styled with Tailwind CSS, and demonstrates proficiency in array and object manipulation, filtering, and mapping.
 
